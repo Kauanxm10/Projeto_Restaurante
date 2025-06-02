@@ -1,0 +1,1 @@
+<?php /**PATH C:\Users\Leo_s\Documents\Aula 42 e 43 (prova de recuperação)\ProjetoAula3\resources\views/UserInfo/show.blade.php ENDPATH**/ ?>
