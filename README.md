@@ -52,16 +52,9 @@ composer install
 # 4. Instale as dependências frontend
 npm install
 
-# 5. Copie e configure o arquivo de ambiente
-cp .env.example .env
+# 5. Configure o banco de dados no .env
 
-# 6. Gere a chave da aplicação
-php artisan key:generate
-
-# 7. Configure o banco de dados no .env e execute as migrações
-php artisan migrate
-
-# 8. Rode o servidor local
+# 6. Rode o servidor local
 php artisan serve
 ```
 
